@@ -26,10 +26,10 @@ module.exports = { session: process.env.SESSION_ID || 'eyJub2lzZUtleSI6eyJwcml2Y
 ///////////////////////////
     A_REACT : process.env.AUTO_REACTION || 'on',
     CHATBOT: process.env.CHAT_BOT || "off",
-    OWNER_NAME: process.env.OWNER_NAME || "TALKDROVE",
-    NUMERO_OWNER : process.env.OWNER_NUMBER || "923072380380",              
+    OWNER_NAME: process.env.OWNER_NAME || "Gaga",
+    NUMERO_OWNER : process.env.OWNER_NUMBER || "254112291443",              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
-    AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
+    AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'yes',
     BOT : process.env.BOT_NAME || 'BYTE-MD',
     OPENAI_API_KEY : process.env.OPENAI_API_KEY || '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',
     URL : process.env.BOT_MENU_LINKS || 'https://raw.githubusercontent.com/HyHamza/HyHamza/main/Images/BYTE-MD-LITE.jpeg',
